@@ -1,1 +1,3 @@
 Nom: Ferran Saigí Zapata
+Ejercicio tipo 3
+errors en la compilació
