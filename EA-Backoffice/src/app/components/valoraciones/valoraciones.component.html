@@ -1,0 +1,7 @@
+<div class="valoraciones">
+    <app-val 
+    (deleteval)="deleteVal($event)"
+    (updateval)="updateVal($event)"
+    [valora]="valoracion" 
+    *ngFor="let valoracion of valoraciones"></app-val>
+</div>
